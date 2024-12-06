@@ -27,6 +27,7 @@ header {
 
 h1 {
    font-size: 40px;
+   color: rgb(199, 21, 133);
 
 }
 
@@ -66,6 +67,6 @@ p {
 
 
 .categoria h2 {
-  color: rgb(199, 21, 133) !important;
+  color: rgb(199, 21, 133);
 
 }
