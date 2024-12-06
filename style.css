@@ -53,7 +53,7 @@ p {
 .categoria-videos img {
   opacity: 0.5;
   height: 100px;
-
+  justify-content: center;
 }
 
 
