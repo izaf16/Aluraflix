@@ -14,7 +14,7 @@ header {
    background: rgb(0, 0, 0);
    padding-bottom: 80px;
    padding-top: 80px;
-   display: flex;
+   display: block;
    justify-content: center;
 
 }
@@ -53,6 +53,7 @@ p {
 .categoria-videos img {
   opacity: 0.5;
   height: 100px;
+  justify-content: center;
 
 }
 
